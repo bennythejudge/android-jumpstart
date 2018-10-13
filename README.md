@@ -1,6 +1,6 @@
 ## Android Jumpstart
 
-[![Build Status](http://jenkins.moldedbits.com/buildStatus/icon?job=Android%20Jumpstart)](http://jenkins.moldedbits.com/job/Android%20Jumpstart/)
+[![Build Status](http://jenkins.moldedbits.com/buildStatus/icon?job=Android%20Jumpstart)](http://jenkins.moldedbits.com/job/Android%20Jumpstart/) [![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/android-jumpstart.svg)](https://www.guardrails.io)
 
 With Android Jumpstart, we want to zero down the scaffolding time for Android apps. Most apps we
 work on share the same boilerplate code, including
